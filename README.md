@@ -1,10 +1,10 @@
 Weather Control is a mod that allows you to control the probability of weather in all of Tarkov (except factory since it doesn't have weather)
-Written by Nevermind 05 JAN 2022
+    Written by Nevermind 05 JAN 2022
 
-# -- Installation --
+## -- Installation --
     Unzip Nevermind-WeatherControl-1.0.0 into (Server Dir)\user\mods
 
-# -- Configuration --
+## -- Configuration --
     Use mod.config.json to configure weather probabilities:
 
     "settings": {
@@ -19,6 +19,6 @@ Written by Nevermind 05 JAN 2022
         "Wind": 1
     },
 
-# -- Changelog --
+## -- Changelog --
     1.0.0 - 05 JAN 2022
         Initial release
