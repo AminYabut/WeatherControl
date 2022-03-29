@@ -3,23 +3,19 @@
     "author": "Nevermind",
     "description": "Control weather chances in Tarkov",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "src": {
         "src/cache.js": "CacheModLoad"
     },
     "settings": {
         "Fog": 0,
-        "HeavyClouds": 1,
+        "HeavyClouds": 0,
         "HeavyRain": 0,
         "LightClouds": 1,
-        "LightRain": 1,
-        "Storm": 1,
+        "LightRain": 0,
+        "Storm": 0,
         "Sun": 4,
-        "Thunder": 2,
-        "Wind": 2
-    },
-    "folders": [
-    ],
-    "filenames": [
-    ]
+        "Thunder": 1,
+        "Wind": 1
+    }
 }
