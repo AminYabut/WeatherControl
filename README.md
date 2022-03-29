@@ -21,7 +21,7 @@ Use `mod.config.json` to configure weather probabilities:
 
 ## -- Changelog --
 #### 1.0.1 - 30 JAN 2022
-    • Rewrote weather change loop
+* Rewrote weather change loop
 
 #### 1.0.0 - 05 JAN 2022
-    • Initial release
+* Initial release
