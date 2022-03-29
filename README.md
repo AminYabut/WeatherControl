@@ -2,10 +2,10 @@ Weather Control is a mod that allows you to control the probability of weather i
 (except factory since it doesn't have weather)
 
 ## -- Installation --
-    Unzip Nevermind-WeatherControl-1.0.1 into (Server Dir)\user\mods
+Unzip Nevermind-WeatherControl-1.0.1 into `(Server Dir)\user\mods`
 
 ## -- Configuration --
-    Use mod.config.json to configure weather probabilities:
+Use `mod.config.json` to configure weather probabilities:
 
     "settings": {
         "Fog": 0,           <--- Setting weather to 0 means this weather will never occur
@@ -20,8 +20,8 @@ Weather Control is a mod that allows you to control the probability of weather i
     },
 
 ## -- Changelog --
-    1.0.1 - 30 JAN 2022
-        Rewrote weather change loop
+#### 1.0.1 - 30 JAN 2022
+    • Rewrote weather change loop
 
-    1.0.0 - 05 JAN 2022
-        Initial release
+#### 1.0.0 - 05 JAN 2022
+    • Initial release
