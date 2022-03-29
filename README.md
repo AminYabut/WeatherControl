@@ -1,5 +1,5 @@
-Weather Control is a mod that allows you to control the probability of weather in all of Tarkov (except factory since it doesn't have weather)  
-    Written by Nevermind 05 JAN 2022
+Weather Control is a mod that allows you to control the probability of weather in all of Tarkov  
+(except factory since it doesn't have weather)
 
 ## -- Installation --
     Unzip Nevermind-WeatherControl-1.0.0 into (Server Dir)\user\mods
